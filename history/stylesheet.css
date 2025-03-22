@@ -1,0 +1,119 @@
+body {
+    font-family: Trebuchet MS, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #3A4C61;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #E9E7EB;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: #E9E7EB;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+	font-family: Trebuchet MS;
+	color: #E9E7EB;
+
+}
+
+
+.img1 {
+  position: absolute;
+  top: 450px;
+  left: 880px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50px;
+}
+
+.img2 {
+  position: absolute;
+  top: 450px;
+  left: 80px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50px;
+}
+
+.img3 {
+  position: absolute;
+  top: 450px;
+  left: 480px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50px;
+}
+
+.img4 {
+  position: absolute;
+  top: 450px;
+  left: 1280px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.p1 { 
+  position: absolute;
+  top: 700px;
+  left: 880px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+
+}
+
+.p2 {
+  position: absolute;
+  top: 700px;
+  left: 80px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+
+}
+
+.p3 {
+  position: absolute;
+  top: 700px;
+  left: 480px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+
+}
+
+.p4 {
+  position: absolute;
+  top: 700px;
+  left: 1280px;
+  width: 350px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+
+}
+
+
